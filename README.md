@@ -2,12 +2,6 @@
 
 ![Victor Pedrota's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpedrota&show_icons=true&theme=radical)
 
-🚀 Olá! Me chamo Victor Pedrota e sou estudante de Engenharia da Computação na Universidade Federal de São Paulo (UNIFESP). Atualmente, estou tendo a oportunidade incrível de estagiar na Visiona Tecnologia Espacial, onde estou mergulhando fundo em inovações e soluções tecnológicas principalmente para a área de geosensoriamento.
-
-🖥️ Minha paixão é explorar o universo da computação e aplicar meus conhecimentos para resolver problemas complexos e desafiadores. Aqui no GitHub, você encontrará alguns dos projetos que trabalhei, seja da universidade ou experimentos pessoais.
-
-🤝 Estou sempre aberto a colaborações e adoraria conectar-me com outros entusiastas da tecnologia. Sinta-se à vontade para me enviar uma mensagem ou explorar meus repositórios!
-
 Monkeytype profile: https://monkeytype.com/profile/stayfr0sty
 <!--
 **vpedrota/vpedrota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
